@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <center><img src="./client/src/assets/logo.png" alt="logo" width="200" height="200"/></center>
 <br>
 
@@ -56,3 +57,7 @@ The project is developed to provide students a centralised platform where they c
 
   - **Feedback and Suggestions**: <br>
   User will be able to give feedback and suggestions regarding the changes or additional features they want.
+=======
+# EDUnity
+EDUnity is comprehensive education platform for students providing them all the services they require.
+>>>>>>> e2b41b31a7c7c4dc0d1e89f4e4f4a40f65dcb991
